@@ -117,3 +117,14 @@ aes-256-gcm-file-encryptor
 ## Лицензия
 
 MIT License.
+
+## Скриншоттар
+
+### Тестілеу нәтижесі
+![Test Results](test-results.png)
+
+### Файлды шифрлау
+![Encryption](encypt-success.png)
+
+### Файлды дешифрлау
+![Decryption](decrypt-success.png)
