@@ -6,4 +6,4 @@
 - PBKDF2WithHmacSHA256 derives keys from passwords.
 - Random salt and IV are generated for each encryption.
 - GCM authentication detects corrupted data.
-- Passwords and secret keys must not be stored in the repository.
+- Passwords and secret keys must not be stored in the repository.  
