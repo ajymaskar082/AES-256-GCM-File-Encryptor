@@ -1,0 +1,16 @@
+# Contributing
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Run tests using `mvn clean test`.
+5. Submit a pull request.
+
+## Code Requirements
+
+- Use Java 17.
+- Follow standard Java coding conventions.
+- Add JUnit 5 tests for new functionality.
+- Use standard Java Cryptography APIs.
